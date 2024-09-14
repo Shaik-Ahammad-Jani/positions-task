@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#id1{
+    display: flex;
+    position: absolute;
+    top:40%;
+}
+header{
+    position: relative;
+}
+ header h1 {
+    text-align: center;
+    background-color: aqua;
+    position: fixed;
+    width: 100%;
+}
+#id1 img{
+    margin-left: 50px;
+    border-radius: 5px;
+}
+#id1 p{
+    margin-left: 60px;
+    color: white;
+    background-color: rgb(156, 145, 133);
+    border-radius: 5px;
+}
